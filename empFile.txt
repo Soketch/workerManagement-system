@@ -1,0 +1,6 @@
+0  jie  1
+2  wan  1
+3  lin  1
+4  wen  2
+1  xin  3
+7  min  2
