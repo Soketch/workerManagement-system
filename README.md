@@ -3,4 +3,4 @@
 fstream  --- class   --- array    ----   ALG
 
 
-c++通过文件读写实现职工管理
+c++ realize the employee management system, use file & Sqlite  
